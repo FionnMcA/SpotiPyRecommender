@@ -1,6 +1,6 @@
 # SpotiPyRecommender
 
-SpotiPyRecommender is a simple command-line Python application that creates Spotify playlists full of recommended songs based on a genre provided by the user. It uses the Spotipy library to interact with the Spotify Web API.
+SpotiPyRecommender is a simple Python script that creates a Spotify playlist full of recommended songs based on a genre provided by the user. It uses the [Spotipy library](https://spotipy.readthedocs.io/en/2.22.1/) to interact with the Spotify Web API.
 
 ## Prerequisites
 
