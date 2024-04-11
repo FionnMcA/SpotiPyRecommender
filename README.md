@@ -9,7 +9,7 @@ SpotiPyRecommender is a simple Python script that creates a Spotify playlist ful
   
   ```bash
   pip install spotipy python-dotenv
-
+  ```
   - A Spotify account (either free or premium).
 
 - An application registered on the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) to obtain your `CLIENT_ID` and `CLIENT_SECRET`.
