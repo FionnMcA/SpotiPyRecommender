@@ -90,7 +90,7 @@ def main():
             sys.exit()
     except ValueError:
         # This block catches any ValueError that occur when trying to convert
-        # the input to an int (The user didn't enter a number)
+        # The input to an int (The user didn't enter a number)
         print("That's not a valid number. Please Run the script again and enter a number between 1 and 100")
         sys.exit()
 
